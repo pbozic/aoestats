@@ -1,0 +1,17 @@
+{
+  "name": "aoestats",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "hchs-vue-charts": "^1.2.8",
+    "kcors": "^2.2.1",
+    "koa": "^2.4.1",
+    "koa-body": "^2.5.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-cors": "^0.0.16",
+    "koa-router": "^7.3.0",
+    "mongoose": "^4.13.2",
+    "unklogger": "^0.4.2"
+  }
+}
